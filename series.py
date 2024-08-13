@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-series = pd.read_csv('C:/Users/Pedro/Desktop/PROGRAMACAO/DADOS/hundredseriebox.csv')
+series = pd.read_csv('/hundredseriebox.csv')
 
 df_series = pd.DataFrame(series)
 
